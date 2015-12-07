@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Library/openFrameworks/apps/myApps/Panning/build/intermediates/exploded-aar/Panning/ofAndroidLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3a93697052099d3ea8ace27c245a6e6f0bd32f59">
+        <dex dex="/Library/openFrameworks/apps/myApps/Panning/build/intermediates/pre-dexed/debug/classes-bc2fa878299bed82b3ec0e0645105971c6aebb59.jar" />
+    </item>
+
+</items>
